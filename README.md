@@ -28,6 +28,6 @@ Your server should be running locally! Access the URL displayed in your terminal
 ![Alt Text](readme_images/terminal_screenshot.png)
 
 
-Pasting the URL in a web browser:
+Pasting the URL (http://127.0.0.1:5000/) in a web browser:
 
 ![Alt Text](readme_images/readme_images/web_server.png)
