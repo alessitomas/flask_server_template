@@ -26,3 +26,8 @@ Your server should be running locally! Access the URL displayed in your terminal
 
 
 ![Alt Text](readme_images/terminal_screenshot.png)
+
+
+Pasting the URL in a web browser:
+
+![Alt Text](readme_images/readme_images/web_server.png)
